@@ -1,8 +1,8 @@
 {
     "animals": [
-        { "id": 1, "name": "Doodles", "breed": "Poodle"},
-        { "id": 2, "name": "Parsley", "breed": "Great Dane" },
-        { "id": 3, "name": "Esme", "breed": "Pitbull" }
+        { "id": 1, "name": "Doodles", "breed": "Poodle", "customerId": 1},
+        { "id": 2, "name": "Parsley", "breed": "Great Dane", "customerId": 1 },
+        { "id": 3, "name": "Esme", "breed": "Pitbull", "customerId": 2 }
     ],
     "customers": [
         {
